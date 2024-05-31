@@ -1,0 +1,71 @@
+{
+    "estudiante": {
+      "nombre": "Dennis",
+      "apellido": "Trujillo",
+      "semestres": [
+        {
+          "numero": 1,
+          "materias": [
+            {
+              "nombre": "Matemáticas",
+              "profesor": "Ing. Izurieta",
+              "promedio": 15
+            },
+            {
+              "nombre": "Física",
+              "profesor": "Ing. Rodiguez",
+              "promedio": 17
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "materias": [
+            {
+              "nombre": "Programación 2",
+              "profesor": "Ing. Salvador",
+              "promedio": 18
+            },
+            {
+              "nombre": "Inglés",
+              "profesor": "Lic. Gonzales",
+              "promedio": 20
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "materias": [
+            {
+              "nombre": "Base de Datos",
+              "profesor": "Dr. Gordillo ",
+              "promedio": 16
+            },
+            {
+              "nombre": "Estadística",
+              "profesor": "Dr. Toloambo",
+              "promedio": 17
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "materias": [
+            {
+              "nombre": "Analisis",
+              "profesor": "Dr. Davila",
+              "promedio": 14
+            },
+            {
+              "nombre": "Inferencia Estadistica",
+              "profesor": "Ing. Paspuel",
+              "promedio": 17
+            }
+          ]
+        }
+      ],
+      "direccion": "Av La Gasca",
+      "telefono_fijo": "09969000016",
+      "celular": "0965617734"
+    }
+  }
